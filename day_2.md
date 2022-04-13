@@ -50,7 +50,7 @@
 ## Series. Колонка таблицы
 
 Списки и словари были подводящим упражнением к пониманию Series, т.к. Series это и список и словарь одновременно.  
-Для демонстрации Series нам потребуется ноутбук [day_2_pandas_series](http://localhost:8888/notebooks/day_2_pandas_series.ipynb)
+Для демонстрации Series нам потребуется ноутбук [day_2_pandas_series](https://github.com/rzaitov/earth_spbu/blob/main/day_2_pandas_series.ipynb)
 
 Показать как создавать Series из списка и словаря. Показать в чем отличие этих способов. В первом случае индекс будет числовой и Series будет похож на список, во втором случае Series будет похож на словарь.
 
